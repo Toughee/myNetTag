@@ -1,4 +1,4 @@
-#myNetTag
+# myNetTag
 
 Small javascript app which provides a brief summary of your location and device data
 
@@ -12,7 +12,7 @@ Small javascript app which provides a brief summary of your location and device 
 ### Tools used
 
 ```
-Animate.css
+[Animate.css](https://daneden.github.io/animate.css/)
 [ipify](https://www.ipify.org/)
 
 ```
