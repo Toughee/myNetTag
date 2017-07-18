@@ -1,21 +1,17 @@
 @import url('https://fonts.googleapis.com/css?family=Shrikhand');
 /*
 =================
-       CSS
-=================
-*/
-/*
-=================
        Body
 =================
 */
 
 .sphere {
-    width: 600px;
-    height: 600px;
-    -webkit-border-radius: 300px;
-    -moz-border-radius: 300px;
-    border-radius: 300px;
+    width: 45%;
+    height: 0;
+    padding-bottom: 45%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    border-radius: 50%;
     background: #F41818;
     margin: -30px 0px 0px 375px;
     -webkit-box-shadow: 43px 48px 46px -20px rgba(0, 0, 0, 0.42);
@@ -35,7 +31,7 @@ h1 {
     font-family: 'Shrikhand';
     color: #FFFFFF;
     text-align: center;
-    font-size: 50px;
+    font-size: 5vw;
     padding-top: 50px;
     margin-bottom: -10px;
 }
@@ -43,7 +39,7 @@ h4 {
     font-family: 'Helvetica';
     text-align: center;
     color: #FFFFFF;
-    font-size: 18px;
+    font-size: 1.4vw;
     margin-left: 100px;
     padding: 0px 40px 0px 40px;
     margin-right: 100px;
@@ -52,7 +48,7 @@ p {
     font-family: 'Helvetica';
     text-align: center;
     color: #FFFFFF;
-    font-size: 18px;
+    font-size: 1.25vw;
     margin-left: 100px;
     padding: 0px 40px 0px 40px;
     margin-right: 100px;
