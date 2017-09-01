@@ -1,10 +1,10 @@
-# myNetTag
+# myNetTag ver 1.0
 
 Small javascript app which provides you a brief summary of your location and device data. Works best in a desktop environment.
 
 ## Information it provides
 
-- Your current I.p. address
+- Your current i.p. address
 - Your timezone
 - Your browser information
 - Your operating system
